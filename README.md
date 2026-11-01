@@ -3,9 +3,9 @@
 스마트폰 게시판 앱 **게시판모아**가 XE3 사이트의 게시판을 읽고 쓸 수 있게 하는 플러그인입니다.
 
 - 앱 받기: [iPhone·iPad (App Store)](https://apps.apple.com/app/id6826114071) · [Android (Google Play)](https://play.google.com/store/apps/details?id=com.easyapplabs.boardmoa)
-- 최신 버전: **1.0.30 (시험판)** · 내려받기: [releases/appapi-xe3-1.0.30.zip](releases/appapi-xe3-1.0.30.zip) · [latest.json](latest.json)
+- 최신 버전: **1.0.31 (시험판)** · 내려받기: [releases/appapi-xe3-1.0.31.zip](releases/appapi-xe3-1.0.31.zip) · [latest.json](latest.json)
 - 설치한 뒤에는 관리 화면(설정 → 플러그인 → 게시판모아 앱 연동 → 설정)의 [업데이트 확인]으로 새 버전을 받습니다.
-- XE 1.11·Rhymix 사이트용 모듈은 [boardmoa-appapi](https://github.com/colombo7/boardmoa-appapi) 에 있습니다.
+- XE 1.11·Rhymix 사이트용 모듈은 [boardmoa-appapi](https://github.com/easyapplabs/boardmoa-appapi) 에 있습니다.
 
 
 > **시험판입니다.** XE3 연동은 아직 시험 중이라 일부 기능만 됩니다.
@@ -15,7 +15,7 @@
 > 웹에서 하는 것: 회원가입(앱에서 웹 가입 화면이 열립니다), 이메일 변경, 프로필 사진.
 > XE3 에 없는 쪽지·친구·알림은 앱에서 보이지 않습니다.
 
-XE 1.11·Rhymix 사이트는 이 플러그인이 아니라 [boardmoa-appapi](https://github.com/colombo7/boardmoa-appapi) 모듈을 설치합니다.
+XE 1.11·Rhymix 사이트는 이 플러그인이 아니라 [boardmoa-appapi](https://github.com/easyapplabs/boardmoa-appapi) 모듈을 설치합니다.
 
 ## 필요한 것
 - XE3 3.1 이상 (3.1.3 에서 시험), PHP 7.4

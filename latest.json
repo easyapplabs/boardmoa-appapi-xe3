@@ -1,9 +1,9 @@
 {
-  "version": "1.0.30",
-  "date": "2026-10-31",
-  "zip": "releases/appapi-xe3-1.0.30.zip",
-  "sha256": "ef11d4727b00eb7165ec6b034cb58c4dea85058fefc1cce2413099c87c7798df",
-  "signature": "G1VxMem+i1YkI1fisDir1wYVSTgZf8IqenrFhVNCg59o2uJQpZIBFs3WjdbvC2A05CG9rlZK7hiw2ExdDZ2PlA1wrCtLnJg/hk+eOSPhS/cWxqaeY86vlRRfjvHbwen9i52aZLlQ6cZhqZlAFrdGs8/dKqpcYger5+H2N1D52zRBLu1SKZyMae698F8tyRlZrSW7I8liVnBRrylkWODrWDy4M2VPWgnQZCa/58Rbmn8O3qSsiyjfwTjJTKeqdUQUbo9pDhTEWjo48BMut/+LQMpnj6W4xun4yhKCvkE5yzTxV/1WK6FXWVXh4i1AGDve0HzAN++1bxfm3CJShfx+6HsYUPMC15OGpjmLD4IfneZqO1C1X68sepUmDBvd1LYLebZMPNqK6NpQeVLvDQyTcy6ov2+AJA2pH8YZ/Wk/uhAkn798r3EPzM8U2f4bfrUnzxh+utvMZmkrKa2UaI06/MMbR2s0arxSQOPiGbpWeXiwg+YotkSdK+dw10YdKoZV",
+  "version": "1.0.31",
+  "date": "2026-11-01",
+  "zip": "releases/appapi-xe3-1.0.31.zip",
+  "sha256": "bfdf77c9a2988ac80946ee0135128039f8528f21bdebff9fe8cd58676e8adead",
+  "signature": "BNDF2Uy/Hp+2vWowFWZFKa62r/7Dfhvw+nrJjcLr6LCT/EesHMtFky8K7UXogMtzilbIQVHiEU/BE8uoBm/dbctxJEgS7oPQnhWPcvJOCVuGmfvRNPf4WI60OGjIPnjaD3lVZXezoHRklnqTtzdxeh5ENTdoY2pUjqU968FrFLyWD0FDrauBL956nUfX1CT3wcD2fPqIctMbAyNVS6dAYrsHbsQhmnoknlxxw85vqVpc/sJ1U7YmxJJgobN817wUKKlvjzkhBXptsb4U+Abna6cOZIVdGN3Z6TQ0GO/iNHigLT/VAYcgNzVC/Cg0rvpycuWjGAP3P0eeCmrJ/AtVvR/WH0iP9i2bk2L5oTZajogHzq9rvgVFwMRAdCc6IUhVzQeMt0FXnFpcbqnlGkxTwW5Gjgz/u01HjHv0eePwSnAzUZYnyacXETtmcMzLGFBRkN9ebVGYrm0pXwEsma7LdjdXcrkXXlv81iTL13kyWxSgpIYNpjhOpwkedFmX7SiQ",
   "min_php": "7.2",
-  "notes": "플러그인 관리 화면 아이콘(XE3·그누보드7)"
+  "notes": "공개 저장소를 회사 조직(github.com/easyapplabs)으로 옮겼습니다"
 }
