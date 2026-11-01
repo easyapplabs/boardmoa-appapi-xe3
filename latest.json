@@ -1,9 +1,9 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "date": "2026-11-01",
-  "zip": "releases/appapi-xe3-1.0.31.zip",
-  "sha256": "bfdf77c9a2988ac80946ee0135128039f8528f21bdebff9fe8cd58676e8adead",
-  "signature": "BNDF2Uy/Hp+2vWowFWZFKa62r/7Dfhvw+nrJjcLr6LCT/EesHMtFky8K7UXogMtzilbIQVHiEU/BE8uoBm/dbctxJEgS7oPQnhWPcvJOCVuGmfvRNPf4WI60OGjIPnjaD3lVZXezoHRklnqTtzdxeh5ENTdoY2pUjqU968FrFLyWD0FDrauBL956nUfX1CT3wcD2fPqIctMbAyNVS6dAYrsHbsQhmnoknlxxw85vqVpc/sJ1U7YmxJJgobN817wUKKlvjzkhBXptsb4U+Abna6cOZIVdGN3Z6TQ0GO/iNHigLT/VAYcgNzVC/Cg0rvpycuWjGAP3P0eeCmrJ/AtVvR/WH0iP9i2bk2L5oTZajogHzq9rvgVFwMRAdCc6IUhVzQeMt0FXnFpcbqnlGkxTwW5Gjgz/u01HjHv0eePwSnAzUZYnyacXETtmcMzLGFBRkN9ebVGYrm0pXwEsma7LdjdXcrkXXlv81iTL13kyWxSgpIYNpjhOpwkedFmX7SiQ",
+  "zip": "releases/appapi-xe3-1.0.32.zip",
+  "sha256": "57d40e899faa87d1a6f0ed3134d9db80bc3d6b2808aec7a72ba85decf3fc7974",
+  "signature": "ZlgZGjY3Z9Ri2vSVMEnzWfPEEzQWudEESAJal1JTMCqDwcGPQXWEuNGys4/V+VYVqlWPASRmn1dAZb3WG+5h/Sti8C8JmBJA/gXmpanuHscyW30sGtZqxEqwQLvCw03WfvB/rZKdb0o2gvD4tGJp7e4Ry1rzOedjXutK6oRRjdfn1eIqgaYHDs262CgD5xCvJliAw+MqLN0i+j1j+GYa5DPOql/mxZZHfDYeBWkrPO0j5QxhA5UhxpBfhr2d0r/IPT1+8cwtNS86OG5775XWgETkBvarUiUK/xo1YkuyjT/4Nrswuf0635SfO1bDhF7+hzc//cGdZn0jABP0r7He43N+3Le5ZAVkI/YocZ2hYvJmz65DQsqazeMib4naQvCcpGxOLWMzGgeUoX/SIdWval7fmiJ/hJX4XxdFBdXH7g+31J1nU6UBHiu9yU7h5SvcHmcXYIa9ywgYuNZQHP4a8kixy/kjk12OOMarmH7khUAFZSjAYZVyuQGmOM8CesVi",
   "min_php": "7.2",
-  "notes": "공개 저장소를 회사 조직(github.com/easyapplabs)으로 옮겼습니다"
+  "notes": "번호만 올림(XE·Rhymix 모듈과 같은 번호)"
 }
