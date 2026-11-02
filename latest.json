@@ -1,9 +1,9 @@
 {
-  "version": "1.0.32",
-  "date": "2026-11-01",
-  "zip": "releases/appapi-xe3-1.0.32.zip",
-  "sha256": "57d40e899faa87d1a6f0ed3134d9db80bc3d6b2808aec7a72ba85decf3fc7974",
-  "signature": "ZlgZGjY3Z9Ri2vSVMEnzWfPEEzQWudEESAJal1JTMCqDwcGPQXWEuNGys4/V+VYVqlWPASRmn1dAZb3WG+5h/Sti8C8JmBJA/gXmpanuHscyW30sGtZqxEqwQLvCw03WfvB/rZKdb0o2gvD4tGJp7e4Ry1rzOedjXutK6oRRjdfn1eIqgaYHDs262CgD5xCvJliAw+MqLN0i+j1j+GYa5DPOql/mxZZHfDYeBWkrPO0j5QxhA5UhxpBfhr2d0r/IPT1+8cwtNS86OG5775XWgETkBvarUiUK/xo1YkuyjT/4Nrswuf0635SfO1bDhF7+hzc//cGdZn0jABP0r7He43N+3Le5ZAVkI/YocZ2hYvJmz65DQsqazeMib4naQvCcpGxOLWMzGgeUoX/SIdWval7fmiJ/hJX4XxdFBdXH7g+31J1nU6UBHiu9yU7h5SvcHmcXYIa9ywgYuNZQHP4a8kixy/kjk12OOMarmH7khUAFZSjAYZVyuQGmOM8CesVi",
+  "version": "1.0.33",
+  "date": "2026-11-02",
+  "zip": "releases/appapi-xe3-1.0.33.zip",
+  "sha256": "abe1bb178f7a882a1dcbf19ecc92ef7c80cfc639e42ed497dd5ebe042b2c99c1",
+  "signature": "sA5EL3Wma8ZH0myibvYltlBdza29zfmZOO2Vf30hg6V0t0MFEaWL13BkA255BthESX7YHxNofXhllg+rcPk8s79mj2JM/RLO/T7Z0b0iyYwUPiZLX+7aDbMkuFYdoe2Y3MHUAHv8n0YihpK0DRd93pFp3JqXbo7fYZFx35BWLKfvvPoOTxVFlMqdjxY0mHZpS8gJz7K8Vr0RkpBG6011fb6p84l/X1fQmEzbh1ZiaKa4eTUrLyspXq944K4yUBfGeH2nL8qN07ZVgbAOLCyszWC8BLjGglanP6EjcTe5Li+ukraRGz4u2WYjZl4ky5uURtP6U1JLYscmkeJV+LxrhjlMJoa1DqopQKFWISDB06Cb1lcPwrw97aG3Pj0tjvHn7DtLoKmqWi5pcpLVsXXTBMpzkwH0ImLHldEJwUPRLjweSDRyScP2TaJseirifxsAquUlluysr+yJqW2Ks1Oz+Vqgs02vqCgw8fNsAefxB61kN28JwPFCavr4AnbUDRLe",
   "min_php": "7.2",
-  "notes": "번호만 올림(XE·Rhymix 모듈과 같은 번호)"
+  "notes": "번호만 올림(다른 엔진용 모듈과 같은 번호)"
 }
