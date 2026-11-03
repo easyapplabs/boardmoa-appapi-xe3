@@ -1,9 +1,9 @@
 {
-  "version": "1.0.34",
+  "version": "1.0.35",
   "date": "2026-11-03",
-  "zip": "releases/appapi-xe3-1.0.34.zip",
-  "sha256": "b8f63d446122a4dc46ab072d6128a515da1c3823bbccdc4896a32a01dbfb69e6",
-  "signature": "PhEOWRpRHYj67isRsVIUtqO0W0+/n2aBvsDt6z+lIAvNAERSXN9ljndrjA05R4vLD3cSrJlNtUomKiv5oj39VrmZQPJdKLL0zKq4PzmiYNFl2PA6kEcS2jL87Nrpj3ApY0KI+m1QA9OHdg+zgW6m6jICTWPHgSgTf2V2kzoR7DR4ZV8qm38QUXNtbXikposB4hlMtthNqe1+0GM+lUSGL6JT12dKQeeuBzRwbmfW+sSLcIioqbO2C6RSKX+We+gAGAVZ8aRhD8UJNbY/SrylD8pC/U6hU6chU+OjISMjWombFNOtkc0Sjt2l67KQWPO9ZxdwmGiwTJGLs4Q5IOJeXtTqyXFfVp6eTZK+vpbPRAWm09I3ZJaGFvU79cs9/mpG3m8/2Yzd54qh2wGJftqSNI63T9dePW6l6tqNhbrS1SfszV/C3R2Wc9LPtC7ciZ1Wg9mPKiRisOjbJ1Pbq07IKuJpnDtoNiMc1ZcFHMAc7zTEuF6/kdZyQNLRPdgtkLkR",
+  "zip": "releases/appapi-xe3-1.0.35.zip",
+  "sha256": "be7d0e677561bd92ef9c19211365bf8bb93763d41587d7b253f497395683dcaf",
+  "signature": "jWhyqtK1x0QTfNpa9xajOBw7gw2UPms5ScZMw14iHbcG6xfEYESjOfNGnVG91pTkvHl4dLkn2toAbNju9aXMdBgZTNeYsOwAeXMQ2U086SJTfm1OPdfE9ONvk9/1asX2XhC/FvHVSp2bDsKS/K4oi6Tir3WFyHaEPyYc0p0kl7YRspXsRGioOURghexDwrL3nzFk5roGIvq+d77M5HM4BrUfovWj4ZsoheYZtHvlMq/+g+oshC3Pb+twTnQL+zEVoQa1VO6rSvneUuZ+zlflK7Yw99sfteFD1UzSVLVPBGKAiVJvlKNMBSFdTpqBMUg/yqzedUi0hmUEzCqDVVF7bqXdp+Qc7Ay6uze+xu0vu/wq+7GSQl8Mxe6a6lTQBx84I8SC/QYMB5QdzzgcsrH5EFIQDfUYRqfePqtd3oLrTolqSRPhM+3BhTkz5PLR4Q+ObSRajEHwluWySIT4lx5SGQ1kwdZ4EHB9zn+Wzf53xpOtB36fopifCpvM9nXmomCL",
   "min_php": "7.2",
   "notes": "다른 엔진과 번호 맞춤"
 }
