@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "date": "2026-11-04",
-  "zip": "releases/appapi-xe3-1.1.1.zip",
-  "sha256": "0fb344bad101b929e46b6cd9d6c65c03b2a23ad57f5918353b239bf7d6d78e16",
-  "signature": "ugRfVb9I8hTFcBSFibYAomw5KRUxfsJf+qdJsSp2zGxG7TC/m88tfdMpEa+P/mDPDntiiZPbeaI5H+m+dbngEeVUfvBQ221vivDObgZIvu7Sbqaw0vi7pWTOIcEaoxdyrNyO3BR0F0oeIYQC4MQTBKQK+gW+WgjbEFUQy3We7Dbl93HKgS+6z8d8WoJgElSc711XbSTj/tg4sIrU/CMlpRBQ4KoOIIvpxVQBgJGNd52LfeCbwrRoNklleXtWF8E6PsnrnRoHnQVeLvUpCvo90LDiLWBLHkEHxDWrvY5XhxePrxu2qipho4HglAYv3wSVkREywg9XYJgN0z75GQUz6ZVvbAJdscs1e7iI+dBkkcEAk0yEzJG0pcsZBrN+zqdWRNHFhBn9XoYwvT5T7zBfKCQZ9+rUh2ULespY7Z+aRjuldmbYrsXLp7aH25Jb8SDa/Doh2mlTlOKfOu86O8AauTTpFHyJbsTh404WKpLxRVAeOz6ZZf+MqChEvxByx9Hg",
+  "zip": "releases/appapi-xe3-1.1.2.zip",
+  "sha256": "1edf6da082e92fd7eacb0e572375508e07c5cf028b2a8b9fdd511e4f6c6da65e",
+  "signature": "OPd8GsHipdYfdaBA6pooM/oe1HNfrgyLF8fNHf7oIn2nYVt0GnqcYHnac9inmObyP8E8vcaGMlDEXb6+uVXTg94p/zkWPrEd6+4ZXq9gSrDStfAusF990c7NQ2O5SQOl7itOUtaha+f0C+s11/d6IP+5wZSu2NAeUyMqQOP5idU2oTGRQU0d2GCunr9GgLo1KciI6CrrmUYUsWuT2xd9TXR1M+sfxdEljz93o6w10SSAtPH3mh8QACdCrZ3YByrJrBtt2hhAbrgKydVQ4Eym/5McQRs16PqOnJYaUqxkwbiRh+ncB2Fc/ddv5WbJTdkIA6B7Hp8BXsi9F7tVNpao5HbukzbNx5d7rfnwF2k2R29+8tDI2g2GyzlyjUU/AOX3cvxUQC1oPyXStF+CWOYkQ4mip3Ba//JYx8tToI6nAZa6GFhLF3acAJE4Z7HuimwDLfPLzXaQnqoUyDH90qaaSd3fwQPWqfQhdXA7/BLniO14YIQDLJYs+MRz/ARDI9J9",
   "min_php": "7.2",
-  "notes": "앱의 '페이지로 보기'(사이트 화면을 웹과 같은 모양으로 보기)를 지원합니다."
+  "notes": "앱의 웹 화면 속 게시판·페이지 링크가 앱 화면으로 열리도록 개선했습니다."
 }
