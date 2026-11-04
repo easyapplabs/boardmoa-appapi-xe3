@@ -1,9 +1,9 @@
 {
-  "version": "1.0.35",
-  "date": "2026-11-03",
-  "zip": "releases/appapi-xe3-1.0.35.zip",
-  "sha256": "be7d0e677561bd92ef9c19211365bf8bb93763d41587d7b253f497395683dcaf",
-  "signature": "jWhyqtK1x0QTfNpa9xajOBw7gw2UPms5ScZMw14iHbcG6xfEYESjOfNGnVG91pTkvHl4dLkn2toAbNju9aXMdBgZTNeYsOwAeXMQ2U086SJTfm1OPdfE9ONvk9/1asX2XhC/FvHVSp2bDsKS/K4oi6Tir3WFyHaEPyYc0p0kl7YRspXsRGioOURghexDwrL3nzFk5roGIvq+d77M5HM4BrUfovWj4ZsoheYZtHvlMq/+g+oshC3Pb+twTnQL+zEVoQa1VO6rSvneUuZ+zlflK7Yw99sfteFD1UzSVLVPBGKAiVJvlKNMBSFdTpqBMUg/yqzedUi0hmUEzCqDVVF7bqXdp+Qc7Ay6uze+xu0vu/wq+7GSQl8Mxe6a6lTQBx84I8SC/QYMB5QdzzgcsrH5EFIQDfUYRqfePqtd3oLrTolqSRPhM+3BhTkz5PLR4Q+ObSRajEHwluWySIT4lx5SGQ1kwdZ4EHB9zn+Wzf53xpOtB36fopifCpvM9nXmomCL",
+  "version": "1.1.1",
+  "date": "2026-11-04",
+  "zip": "releases/appapi-xe3-1.1.1.zip",
+  "sha256": "0fb344bad101b929e46b6cd9d6c65c03b2a23ad57f5918353b239bf7d6d78e16",
+  "signature": "ugRfVb9I8hTFcBSFibYAomw5KRUxfsJf+qdJsSp2zGxG7TC/m88tfdMpEa+P/mDPDntiiZPbeaI5H+m+dbngEeVUfvBQ221vivDObgZIvu7Sbqaw0vi7pWTOIcEaoxdyrNyO3BR0F0oeIYQC4MQTBKQK+gW+WgjbEFUQy3We7Dbl93HKgS+6z8d8WoJgElSc711XbSTj/tg4sIrU/CMlpRBQ4KoOIIvpxVQBgJGNd52LfeCbwrRoNklleXtWF8E6PsnrnRoHnQVeLvUpCvo90LDiLWBLHkEHxDWrvY5XhxePrxu2qipho4HglAYv3wSVkREywg9XYJgN0z75GQUz6ZVvbAJdscs1e7iI+dBkkcEAk0yEzJG0pcsZBrN+zqdWRNHFhBn9XoYwvT5T7zBfKCQZ9+rUh2ULespY7Z+aRjuldmbYrsXLp7aH25Jb8SDa/Doh2mlTlOKfOu86O8AauTTpFHyJbsTh404WKpLxRVAeOz6ZZf+MqChEvxByx9Hg",
   "min_php": "7.2",
-  "notes": "다른 엔진과 번호 맞춤"
+  "notes": "앱의 '페이지로 보기'(사이트 화면을 웹과 같은 모양으로 보기)를 지원합니다."
 }
