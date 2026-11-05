@@ -1,9 +1,9 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "date": "2026-11-06",
-  "zip": "releases/appapi-xe3-1.1.5.zip",
-  "sha256": "1001017f90e50ee6ff0d4030dc12bd2ca52e9961b67ca6647efe063ba827b2f7",
-  "signature": "C2zeYVIUT9pN27HLuVah1GxWnW6vQcNHlsm5DDc7TmJGajztHpttM6+wlKkzvaEZ+bxdOkU0dWDKqyMNkv2pkDsWTRCF3R1uh2z3R7MhEx2ZLaJsGa8Jz8x6hXhD7Cr1xRa9rADrwYstOYmvK/B/d5ynhGOPPMjkb851VRoALcHYKooGETWooPhdTbRq/rNAuUD35aXuu4JhLLIU8P5nPd7XtiG/q9GmR+UPZmkRVoj/fD41DlC2HnHrY+bGtjSBPL/Ep7XRX3LA04hclu7e4FcmT6B9RmSBOlBySug12N4gnJW1XvliNuYYSJ/x3it+I5Oa+rqPBzABxpIfuN2hWR43mPep4PvZ2YFi5dYA3C1c65hVQyFO+V4DQ8H4SitRBmSEMdIXfkk+qU13nKgWDjWD2XvLVmNtZhIwNv/qAZZZsucDm71Yz6/SVujhMhSBu/dJw+bqgYnmZmUjvCh+f07d69wUbv+6U2NFZw2VrGr4UxOLwQzG8Y8bVaOzRK+u",
+  "zip": "releases/appapi-xe3-1.1.6.zip",
+  "sha256": "f6ef593b2604f1090c7fb02608fec430082afd5766bb891fcbb7439c173e969f",
+  "signature": "gb5Kgt6kxHkSjy9hsOQ1MQ1B5ZNhsGASgv7V0ok2rT5llh9thFPM45ADIm59n3obSdbAiulFJvetctDZAKWis8/UI3gAx/j3yYDc+YBqo9WXqFyMJTOWimLkp6QvAITa6k1Xcm0MFJHq5b8w+nUeMds5IdIzIAwenH1QmxyYFF1c3ZG5gekl+WxWuWBRuix1MnPuL4CQro/JVKGSppT+cbEXa2+dXiOxb8DJrD8HJKg8/8H9nOSgb0ZZaILD8gmjVAWgnDFvQXmIjmD1lRxSmOzB2DRTtEnY4KF4i8s11zfQTH+8jZkQh4YYiil/lten4PpiuRVbf3VcEywi8n+DEJJ+LvPi0ne8UXB2Pbs4xvCkCJ0DTbAMK0IB/lX36NOAfl7QYWEEF6ncWNmPNXREytb35p3Q7vhxv9h9HBnrbKdQqFHXGvBOQT24DXlYUH6pZ4yfzQw7FM8CieL6rH1wZ1bIpuDkWIr0S59CUPLZtRnPYrOBj4eDtWHQyRad67Vs",
   "min_php": "7.2",
-  "notes": "라이선스 파일(LICENSE, GPL v2 이상)을 넣었습니다."
+  "notes": "번호만 올림(다른 엔진용 연결 모듈과 같은 번호)."
 }
