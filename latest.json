@@ -1,9 +1,9 @@
 {
-  "version": "1.1.4",
-  "date": "2026-11-05",
-  "zip": "releases/appapi-xe3-1.1.4.zip",
-  "sha256": "f2a7cb5c4288a3ed6c6e44b6917312657901b0c862145bbde184207ea510babe",
-  "signature": "LlNA93eNlxEnLog1iuX8DAC/tsXX/Nrwv/CwonejvmXMZ/1KxthqdvjLGCIKqmVVqdiGgqfNwbfK0PLj++9TtAemqLSiL29OWUecOxkGUEIAkTVjaWi3iJ/AiFKUS7t2iYvqf1rl+gt6KrhN/Xp8FH8CEbdT5kf/FToWPhayvFFrAIPu2EKFWM/+XOkpDEe+vQCFviI/uoUlufxxyGoWPQWH+RKbLaX9MmZ4uTcUc9OQ18OZXsxc5NiLCpCe/3h5gG/hMChdKv0qO8DzzWl/VR50m2NUX2V1WxQfJz4oTbA72zIOza0tlVE+eGn8+JFXr08E7BSBYg5UpYGvja12O3azn4YAb4F0H2OvF8f2IdOUSOtz1iGGVxfvJMV0/28Uu1XlZzxmmyL+lQLdk9JCXZCBGKoysGwAlgsVEC2HwAYYIJVBS9NG2usc0IZVu+xjc+8YgzJHpijd61Pljarkd7Rbz+qA1yT/3th5byEYGpw7zUAaTT7Il+2xPOKu8v1Z",
+  "version": "1.1.5",
+  "date": "2026-11-06",
+  "zip": "releases/appapi-xe3-1.1.5.zip",
+  "sha256": "1001017f90e50ee6ff0d4030dc12bd2ca52e9961b67ca6647efe063ba827b2f7",
+  "signature": "C2zeYVIUT9pN27HLuVah1GxWnW6vQcNHlsm5DDc7TmJGajztHpttM6+wlKkzvaEZ+bxdOkU0dWDKqyMNkv2pkDsWTRCF3R1uh2z3R7MhEx2ZLaJsGa8Jz8x6hXhD7Cr1xRa9rADrwYstOYmvK/B/d5ynhGOPPMjkb851VRoALcHYKooGETWooPhdTbRq/rNAuUD35aXuu4JhLLIU8P5nPd7XtiG/q9GmR+UPZmkRVoj/fD41DlC2HnHrY+bGtjSBPL/Ep7XRX3LA04hclu7e4FcmT6B9RmSBOlBySug12N4gnJW1XvliNuYYSJ/x3it+I5Oa+rqPBzABxpIfuN2hWR43mPep4PvZ2YFi5dYA3C1c65hVQyFO+V4DQ8H4SitRBmSEMdIXfkk+qU13nKgWDjWD2XvLVmNtZhIwNv/qAZZZsucDm71Yz6/SVujhMhSBu/dJw+bqgYnmZmUjvCh+f07d69wUbv+6U2NFZw2VrGr4UxOLwQzG8Y8bVaOzRK+u",
   "min_php": "7.2",
-  "notes": "앱의 메뉴를 사이트 웹 메뉴와 같은 구성으로 보여 주고, 웹 화면 속 링크 주소를 바로잡았습니다."
+  "notes": "라이선스 파일(LICENSE, GPL v2 이상)을 넣었습니다."
 }
