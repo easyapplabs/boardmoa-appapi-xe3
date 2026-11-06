@@ -1,9 +1,9 @@
 {
-  "version": "1.1.18",
+  "version": "1.1.19",
   "date": "2026-11-07",
-  "zip": "releases/appapi-xe3-1.1.18.zip",
-  "sha256": "2e6eed2af8ee340c390ad17fab538097486faa6e2bd02888839b8c07a357cc50",
-  "signature": "lz+FeYSnnTtMZ2sc+tsgdo4rpbcrFE7TY3BDVAhU+Jp709gJk8GdVGFYcxd2XzRzVWyV3paprNN1A6TUSoLr4YRx/YD8UUHzFA2KX50epKzcbSD940j9FR++njoynOVGK4yzi4K83swN2fne5htuSPkjmeh7vMQFTpXYYflPWxi88X9kGaf71hShSnXY1JCigTWkIY2cP3ULVPCjPRJYN2qpBsi1GneOGBr1pYaDzGlPhnkhUn3FPl2SYoqYzV/aNUCLnLPQzChTMdoAYllZgQ1zQnudwP1vW9wcXilBZmx6wS/m3LjWVAay+otJ/8f2jiDeWZ/xu9wpeZb9Gek84PoJ+ZExUiXl9hptX/ffCxRK15oQPTE221kfdxbwwQ9mbi0h7ztCvqTVByzyCDN8M8rlSvJp8u3xAVu8yylI87NsJu/XzGfx6/S4PfjZVsDgN+4oIrpiA4cgxB5i+67+/UMTeb6qx7oPtd74Z1bU6XHGdIyReN5VNtrJC5a+VzWT",
+  "zip": "releases/appapi-xe3-1.1.19.zip",
+  "sha256": "0943b38718a9343b12198af9b5ec919f39487639906d64dfd8cf15991593c21b",
+  "signature": "SHmeTiPCk2SsIJvQbys/KFtCXsIvkolbLIuJLX5Tpyrh4f8AyLPo5BwqO9GfwG3Pa/rr622Tsc7aeHOoCQ9AeMtK5XA8hZxALQpNb44reIpomNM0l/6+YhIhLoVATEIycBip4PPNMxKDE79foGDoLGen3NgeEMAR61hWEhHSXXpvy8eDD6RdWevKK/jcnnbAxU5QflED7jnZk098/pdSXiDBJV+U5G13qGOjNdlMaA3Hh/hCXEu+uSqyCF5Tr95Gl98cVhDkh5rq3D7M341Lxl4ZrCQBw2Xp+3oOfhvP1Hi4oPzrYI5Tvs/xgC/vQJA4Fwb56WW8a4CFrJsdSPhRVR4sYF5Ixy44pP6JxH4tKJtjhWavQfNsTTlnIpzX35pOcfMfA2VzlZgsp3vF1GdzyWGBo4WcZ1jXSnh3Ak/pFLtBaw9ewlTqDRVxR809bJPchbPRP/OA9DJho4AcVCbXSHrSFWtKmEr8oY5M9XGag1SSVArerhhJnB58e6jeguzw",
   "min_php": "7.2",
-  "notes": "'그 밖의 게시판' 고르기를 다 만든 목록에서 처리(동작 같음). 다른 엔진은 번호만 올림"
+  "notes": "번호만 올림(다른 엔진과 같은 번호)"
 }
