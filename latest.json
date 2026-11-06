@@ -1,9 +1,9 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "date": "2026-11-06",
-  "zip": "releases/appapi-xe3-1.1.7.zip",
-  "sha256": "20cf9c0d4cbc56f1ad27a9e7b23bcb89304973767a7c9a5712018a70be7d382a",
-  "signature": "tC+xvTmmecH6VeiDnconuENtyOrzPy9ztEJbBIQp1ccdX7rtCMYUFUo/VxDk07zQreVaJILoGWl/u92tEo4VRJd9WPakbuomzoNni9lAe8NoXWjAxSIhSHOoqZSqi8in0tlD2jbUkxwbY3vKs6CNNYQELhOSF4/kp72PriIvfR8hOZKlO6d5dPhKNJ0wSdYLkZlCDa+OSOYR/b8XFIiY1eNFubKBHI0Ivp8Hh3ueVLogQLyBx3CwidgqYEsf+2bIXNJN2sVDOwAlbCBVh0tCLYn/Z3OgnNFjynWDHMckXPfzXi3GidvDOvuHcL5XLuud1Jzd59n/L3Z6GjL4WYGG5l0IWGBgERUPx7yMiEhbLQJFG9Dl0SgUZoQ6ClnUJChz1rX2UnDH3y1BmHKfVSyfDJYu7zRUbZZkRc+VTtVodeC8jmQryrT19Mx3pom3NvY6+20hZEzrj155IuXF6CK3FLTlho+EqE4s1QV2W0J0ShD7oX84Cx5HdYQcg4vPrKnY",
+  "zip": "releases/appapi-xe3-1.1.8.zip",
+  "sha256": "e1ec90ec4e0c7690803ac5a173994bca4708062cdbb05180171662ebb63897e6",
+  "signature": "QuRH4ATNNZYI2ebrhw26jY63lshGZDTosZKQCA7cZ0/Uauq4oCjQUus0ajnUhtK4CCF9D6DCMwTTuThxXB0lNdSUv83nGUppKuac+tRy3Qrr1hGDh/XkPfUbplUeUxjWTn0M3uIz3E7AM3tt0WUqadEH+ZL4ubfkctw7j44TOgAG67ELKDAtsV0Ydkn54E+VLZJrb3Y3ZuL3Sq/NjvybunyiWs19JMx208ND3jvRHU1Sx5zryroQEBmsi1m94dOUaXYXrcrr87r6MsdYKk1ACW/EUgglZ0HSrFEHi91PHwxeYr/PmWXo+LhJGPq2FbgnG5F2gTinA/uEozTvMbRXrV9+UVLcajyDnREQchla7JFILvWTs4rkNz7vVEfGSEaUd0985rBTIQb3pHl3krQqld22ajefuQ67lr8ks8mePmzbN0iW7+JqZn0AnUtAmAEShEJ4GgDbp9KvGHAzu5uJIyUOCm//tzCdteD5biEzPjDKRjM/O398SUTBwH9nm592",
   "min_php": "7.2",
   "notes": "번호만 올림(다른 엔진용 모듈과 같은 번호)"
 }
