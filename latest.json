@@ -1,9 +1,9 @@
 {
-  "version": "1.1.12",
+  "version": "1.1.13",
   "date": "2026-11-06",
-  "zip": "releases/appapi-xe3-1.1.12.zip",
-  "sha256": "7d85c14833bc6a2ed4cd2898f4024846bda45ccbc3859f9e5400f6d0239bf26d",
-  "signature": "GVeBC/mcF/0dIWX1nNRUhGj+NdVoKevvHjudFmfWc+xZ0Ph1aRATz6GXqK4zlahmej+U366L3sBwBBZxpabb4fx8TKbBYRtKuueirILYIcTRlndPXGmTbuDaUAFTM7vOtVOfCyyR3AC4hNZ7RWZvO1vO1+E6173k2Ainouy6+vptTIpmtuC4SZB5SsKcjmYpJXjqyBg0CiIyGDj/I9ywOyyA11EE0Og/AtNeYai78sVDyBocQuvAdSoBrou0nmqPtoxCVWpbSO7MibsNhlxMKdAOTVJ+G9OjKD7N69WaKIBLBOTu185GEsSEXM9hCJgbe/3PPCfUKvu5oD3rWoFBwdSt1KsOBE+ZW5getdo0stja2esSAHvOoZlrlSIhb5pqYc6AkcWMtMO+oismwSJyhxJs33sndLuajIY0q3J6G5EgoKNagNmJPtvmZn3pHzbG1USQVNKxlMoJm5PZ8o0tavF1kbKhqLjCdYRJYb6jagu4oA1S83KEt64ib8S5TjgY",
+  "zip": "releases/appapi-xe3-1.1.13.zip",
+  "sha256": "b118de6456b15a597df7086a34f2ab524752b6e926a6219a7fcff4e59fb400b1",
+  "signature": "V0rLSwopWRh+2Il+NoKw7NwyytXPwTqQ4u/Tur4wtWA6mPnIihIAjPOcN5C78lXveG/bkwZOhDKMC/SRBGhlGGBc3jScLAHBO7mUaLW8uirZ99cgZYsD7wbfcoCS2DTVQsT4CCodatdV0pBG67M7GErdsnBQP81r3yn1XzhKQldt4vztiNlYmq4UKsmKgemlZH4U+flj/2l85wmtjKj4H64lKXLGSmhT0Ikvh0stYCP6y5r5BDMkinjTUhHHpXSb3Y8iGhCI+a5SzhUnT4t3JpOq+R6wkHHKPYufKxn3qYsy5F5+w2AsSLN04Uk8aFrCdUtbdp/r219e4yNJwwLS0j2KLIhfJ9Ral86vXI18b+KlFzzajoXnQzrlopLXi9OARLXK1v/dWifFo0Q1Cmue48o9hZbI9JMGxdolrjFQLRk6DRqfdyO1BQZ4FPa4S5Ill9psP12oYbcR7/iD+GbacEQ1KDmIGva4D48IUPsgn4hZxxk2DeKSw9FAEALt9V4G",
   "min_php": "7.2",
-  "notes": "메뉴가 여러 개인 사이트에서 게시판이 있는 메뉴를 앱의 첫 메뉴로, 모바일 주소(m.) 링크도 같은 사이트로"
+  "notes": "번호만 올림(다른 엔진용 모듈과 같은 번호)"
 }
