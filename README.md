@@ -3,7 +3,7 @@
 스마트폰 게시판 앱 **게시판모아**가 XE3 사이트의 게시판을 읽고 쓸 수 있게 하는 플러그인입니다.
 
 - 앱 받기: [iPhone·iPad (App Store)](https://apps.apple.com/kr/app/id6826114071) · [Android (Google Play)](https://play.google.com/store/apps/details?id=com.easyapplabs.boardmoa)
-- 최신 버전: **1.1.16 (시험판)** · 내려받기: [releases/appapi-xe3-1.1.16.zip](releases/appapi-xe3-1.1.16.zip) · [latest.json](latest.json)
+- 최신 버전: **1.1.17 (시험판)** · 내려받기: [releases/appapi-xe3-1.1.17.zip](releases/appapi-xe3-1.1.17.zip) · [latest.json](latest.json)
 - 설치한 뒤에는 관리 화면(설정 → 플러그인 → 게시판모아 앱 연동 → 설정)의 [업데이트 확인]으로 새 버전을 받습니다.
 - XE 1.11·Rhymix 사이트용 모듈은 [boardmoa-appapi](https://github.com/easyapplabs/boardmoa-appapi) 에 있습니다.
 
