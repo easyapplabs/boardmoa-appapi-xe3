@@ -1,9 +1,9 @@
 {
-  "version": "1.1.15",
-  "date": "2026-11-06",
-  "zip": "releases/appapi-xe3-1.1.15.zip",
-  "sha256": "f2615f5c763742ac031398da1836bf75e8a20abaa272852ab3661040ce395829",
-  "signature": "PTET/JuAJB0Fft+XvewylEhpJl87wz4ebyiVUyPzhaUuiqMQNhFCVFN/X31n6HEbLjyl2mK7bDPcFzkU22L20VhphCSHiczERbU85RvaWmn8J4jNbMUjMITxhmFliigoTYhoT6mfhJy3esE09yr4M+YnbJB8LLuBr4xTcud+q3CFl8XJkEsmhXRlLnwtuuTlez8YtXAOlUrG8xR/Fr5o18lP1XJLsujnWaITphj0H2HsMFW6iW5vzBCTdIDu7i+zb1MrU6Vl701ziiNqjsngmkF2QuNZiMoInUMWKKzlvUGUZVhO1yU6FEys2h6wNBoTI4kDJJivkfE5GcIGJqqWfTU3bE5dg2vlWf35Sjee06U9emx+Rg9VcMrI7aFKMQq9b8HRrqCYK+2VYdPnQh7k+Dm2/zYgrvKK8ISn+80O73IVSESl1pMP2FmDDN60bPkd235/QpflbCWCiHlPIqoUzNMbPxg7I1JqpphMvNqfAnhY0WYZYSdtouVoZkcfMo5q",
+  "version": "1.1.16",
+  "date": "2026-11-07",
+  "zip": "releases/appapi-xe3-1.1.16.zip",
+  "sha256": "cbff89ef9a9af445d3ec3892edb9a2053bd0516fe11e80a536cec8000aff0603",
+  "signature": "U0YWYEDHpg6J5gkz+Q9a7Q2abboWong4OoR6BYxCmNPe2MzuX4Yr+9Au8mpVUL+JAyptW0P3XW/3afGCZ61M26sxpb9nHyDg1pLuNngme7PIi/O9FJOITD/I/8iq971VoDISz/+OL2aXGOskzt9SCGd9XuDQwXjowXqRZQNuiMbGYWUY7tEIhas7VcKB8pBLkRHhI+zZ5vOrZe1CeVysOrza7eZ2HLO0SPA+pa+hnlZGbO1e3On3lysvAPzoh+kYiUWNd9E2N9ZUoZ5Nf/01kvNh3IDMuAtN3sibcoTBCNR3OvuNbq9sIj2JzOYer6Syk9QdfZ96bfef8EW7FgsXGhG4uRH3TpVRP37RcgMRDK+Ru0Ikjc+8B+9YffAb08G2gTPHpRlxpm82H9MztDadM99mIbiCuehHQkKTkCZrhXKJ2SLDmvLgWWkukev0UIIaV4yknJZXPehiGAtn77mz64hDMpecJPZ821EDfbv3EJ6XXblCtVAqbme0Pa8FJhch",
   "min_php": "7.2",
-  "notes": "번호만 올림"
+  "notes": "그누보드5: 메뉴에 없는 게시판은 웹에서 찾아갈 수 있는 것만 '그 밖의 게시판'에(전체 검색 사용 또는 첫 화면 최신글). 다른 엔진은 번호만 올림"
 }
