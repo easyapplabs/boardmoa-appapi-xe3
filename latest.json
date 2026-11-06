@@ -1,9 +1,9 @@
 {
-  "version": "1.1.14",
+  "version": "1.1.15",
   "date": "2026-11-06",
-  "zip": "releases/appapi-xe3-1.1.14.zip",
-  "sha256": "9cf8c0c7c317d94edee44d8df2a7940b3cc85d4bf7e3cc2a47cae2cbb4599b1b",
-  "signature": "SLTau8EpDE+K6Ncu+yGDj5OuYd5o0YPnLqvWGiaNeZTPLwqspaXn9tPZdy4gimdq7r8iSE/7V0pX4s5xWsN6dxI+CkdTMuQnj1phOVHYgkQHvlQgEUPeg+GmcBrLfMMYybxMgroggsdo81Y/dfrqPXW68i9r8yebYGMk2a+MiR0GTqEaKZrb1zGiyjewQg+L6yNA9iiEbb9EvTf0bm87tewfvxcwlFQ5zo1Ynw3QeuHUHs1u6ilDho9ZTx6KAxUKJ0dA8qNekfngdrf7FHCScGCF+oXvFPB/3VXCELbIrvA0q7eCfSXuNsdnItUJuyEh3zc64h2qAjot93p4gvI71PPV76LB3KRLLTYGkkGK2wLp6iYZ28uelcHOx7iQ+Ve2LI7sbk6dx2kIkyOzFgNvVXT/B9HTBgXKlO4rfJJgdejEBxLVe+j0Sy4PeyTu1udcu86ZwIMtDJ7yzwuAAaB5rDEo8jRouGgRAoZ7qWGmRx4Wl35w+Umr6zcvPlh7mkPf",
+  "zip": "releases/appapi-xe3-1.1.15.zip",
+  "sha256": "f2615f5c763742ac031398da1836bf75e8a20abaa272852ab3661040ce395829",
+  "signature": "PTET/JuAJB0Fft+XvewylEhpJl87wz4ebyiVUyPzhaUuiqMQNhFCVFN/X31n6HEbLjyl2mK7bDPcFzkU22L20VhphCSHiczERbU85RvaWmn8J4jNbMUjMITxhmFliigoTYhoT6mfhJy3esE09yr4M+YnbJB8LLuBr4xTcud+q3CFl8XJkEsmhXRlLnwtuuTlez8YtXAOlUrG8xR/Fr5o18lP1XJLsujnWaITphj0H2HsMFW6iW5vzBCTdIDu7i+zb1MrU6Vl701ziiNqjsngmkF2QuNZiMoInUMWKKzlvUGUZVhO1yU6FEys2h6wNBoTI4kDJJivkfE5GcIGJqqWfTU3bE5dg2vlWf35Sjee06U9emx+Rg9VcMrI7aFKMQq9b8HRrqCYK+2VYdPnQh7k+Dm2/zYgrvKK8ISn+80O73IVSESl1pMP2FmDDN60bPkd235/QpflbCWCiHlPIqoUzNMbPxg7I1JqpphMvNqfAnhY0WYZYSdtouVoZkcfMo5q",
   "min_php": "7.2",
-  "notes": "앱이 보내는 X-AppApi-Token 머리말로도 로그인을 받습니다(공유 호스팅·프록시가 Authorization 을 넘기지 않는 서버 대비)"
+  "notes": "번호만 올림"
 }
