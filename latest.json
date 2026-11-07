@@ -1,9 +1,9 @@
 {
-  "version": "1.1.19",
+  "version": "1.1.20",
   "date": "2026-11-07",
-  "zip": "releases/appapi-xe3-1.1.19.zip",
-  "sha256": "0943b38718a9343b12198af9b5ec919f39487639906d64dfd8cf15991593c21b",
-  "signature": "SHmeTiPCk2SsIJvQbys/KFtCXsIvkolbLIuJLX5Tpyrh4f8AyLPo5BwqO9GfwG3Pa/rr622Tsc7aeHOoCQ9AeMtK5XA8hZxALQpNb44reIpomNM0l/6+YhIhLoVATEIycBip4PPNMxKDE79foGDoLGen3NgeEMAR61hWEhHSXXpvy8eDD6RdWevKK/jcnnbAxU5QflED7jnZk098/pdSXiDBJV+U5G13qGOjNdlMaA3Hh/hCXEu+uSqyCF5Tr95Gl98cVhDkh5rq3D7M341Lxl4ZrCQBw2Xp+3oOfhvP1Hi4oPzrYI5Tvs/xgC/vQJA4Fwb56WW8a4CFrJsdSPhRVR4sYF5Ixy44pP6JxH4tKJtjhWavQfNsTTlnIpzX35pOcfMfA2VzlZgsp3vF1GdzyWGBo4WcZ1jXSnh3Ak/pFLtBaw9ewlTqDRVxR809bJPchbPRP/OA9DJho4AcVCbXSHrSFWtKmEr8oY5M9XGag1SSVArerhhJnB58e6jeguzw",
+  "zip": "releases/appapi-xe3-1.1.20.zip",
+  "sha256": "ef082ec9dd9c84e84c04d8c383d2c28d6dddba829c2d9f3a8ff81b44714d33d6",
+  "signature": "khszDswLFMkxX7UPn8XuxaJ73RXrTG/lhP/kSEcc2zlNop19W2ifI4Owemf7w+AOsZ0ssctPA+g21OTkPMTYKrfjxSl/UuBTqgDaJ6FQWnxDPkFF/ao4uFc+XZs6p3Yj4TamH464BM/9UQ7d372AOWS0eHCrI7xsyhqB44gzsdzaLrBO7uSnoUDMf4fIEXVjXHqxEsOUSH+0eUXYyAUu+tvtjUH+v4d3lK0qECO3WUlZRYuKm9WPBDfSjIyU/ceLfe7C8pNjGA9YFyfy+QA/Fq4K1VHZh8VeSbCKIrw2GzgXEA9+X5XU9zcQL2u35o3mxbm773MTX28VIohEzri0pijaR023s8P06jLXih0F/9jkaV06UxR0tulRcY98Wt5PrvE4T6TtoJuYTGmQQzMIdpXWpMJelyR4qyr3f7TagY2sNuAYzjxgBwHcY9EKiGO0B5IJE8keirXtqLkwoEmFKSsQxBELg2a5bRfQ/aFDVgtykgNdeUM0kqG8CwuSKmh5",
   "min_php": "7.2",
-  "notes": "번호만 올림(다른 엔진과 같은 번호)"
+  "notes": "추천·스크랩·신고 단추를 웹과 같게(즐겨찾기 스킨 설정, 신고 메뉴), 자기 글 추천, 댓글 신고"
 }
